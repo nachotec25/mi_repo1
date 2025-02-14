@@ -4,5 +4,5 @@ Descripción detallada y técnicamente significativa del contenido de mi REPO.
 
 
 
-Esto es una modificación del README
+Esto es una modificación del README... para comprobar la sincronización con github
 
